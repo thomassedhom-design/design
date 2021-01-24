@@ -377,7 +377,7 @@ body{
     .first .headline{
         margin:0 0 0 7px;
         align-items: center;
-        font-size:30px;
+        font-size:25px;
         font-family: 'Big Shoulders Stencil Text', cursive;
         display:flex;
         width:56%
@@ -386,7 +386,7 @@ body{
     .first .headline .firstphoto{height:57px;width:65px}
     
     .first .headline .firstphoto img{
-        width:101px;
+        width:81px;
         height:59px;
         border-radius: 50%;
         margin:0 0 0 6px;
@@ -394,8 +394,8 @@ body{
     
     .first .more{width:0;margin-left:7px;height:80px;overflow: hidden;}
     
-    .btn-group{overflow: visible;margin:11px 0 0 137px;height: 27px;}
-    .bottom{background-color: black;color: white;}
+    .btn-group{overflow: visible;margin:11px 0 0 115px;height: 27px;}
+    .bottom{background-color: black;color: white;display: flex;}
     
     .first .more ul{
         list-style:none;
